@@ -1,0 +1,9 @@
+.App{
+  display:flex;
+  gap:20px;
+}
+
+.content{
+  background-color: violet;
+  flex:1;
+}
