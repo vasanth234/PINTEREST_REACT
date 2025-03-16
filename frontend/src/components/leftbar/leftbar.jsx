@@ -9,7 +9,7 @@ const leftbar = () => {
     <div className="leftbar">
         <div className="menubarIcons">
             <a href="/" className="menuIcons">
-            <img src="/general/logo.png"  atl="" />
+            <img src="/general/logo.png"  atl=""  className="logo"/>
             </a>
             <a href="/" className="menuIcons">
             <img src="/general/home.svg"  atl="" />

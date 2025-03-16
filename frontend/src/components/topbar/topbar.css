@@ -1,0 +1,28 @@
+.topbar{
+    display:flex;
+    gap:12px;
+    margin:13px 0px;
+    padding:20px;
+    align-items:center;
+
+}
+
+.image{
+    color:aqua;
+}
+
+.search{
+    flex:1;
+    gap:16px;
+    background-color: gray;
+    border-radius:16px;
+    padding:16px;
+
+}
+
+.search input{
+    flex:1;
+    background-color:transparent;
+    border:none;
+    outline:none;
+}
