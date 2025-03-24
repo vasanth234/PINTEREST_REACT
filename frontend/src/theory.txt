@@ -1,0 +1,1 @@
+To uncomment several lines we should select the lines and press ctrl+ /
