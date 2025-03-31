@@ -1,5 +1,6 @@
 import React from 'react'
 import GalleryItem from '../GalleryItem/Galleryitem'
+import "./Gallery.css";
 
 
 
@@ -175,7 +176,7 @@ const Gallery = () => {
   return (
     <div className="Gallery">
         {items.map((item)=>{
-          <GalleryItem   key={item.id}  item={item}   />
+          return <GalleryItem   key={item.id}  item={item}   />
         })}
       
     </div>
